@@ -8,5 +8,4 @@
 
 
 
-My Portfolio :   ![image](https://github.com/user-attachments/assets/01269a3a-58ab-491a-97e0-fe6848ea9f15)
 
