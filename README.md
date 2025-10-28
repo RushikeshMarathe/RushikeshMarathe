@@ -1,5 +1,5 @@
-- 👋 Hi, I’m RushikeshMarathe
-- 🌱 I’m interested in MERN Development.
+- 👋 Hi, I’m Rushikesh Marathe
+- 🌱 I’m interested in Full Stack Java Development and MERN Development.
 - 👀 I’m currently searching for Jobs. (I have done an internships).
 - 📫 How to reach me
      - Linked-in Profile : https://www.linkedin.com/in/rushikesh-marathe-393485229?
